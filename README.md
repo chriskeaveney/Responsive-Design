@@ -1,8 +1,6 @@
 # Responsive-Design
 
-The following is a responsive website I developed in February 2022.
-
-Developed using HTML/CSS, JavaScript and Bootstrap.
+The following is a responsive website I developed in February 2022 using HTML/CSS, JavaScript and Bootstrap.
 
 To view: simply download the repository and open index.html in the browser.
 
