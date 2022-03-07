@@ -6,6 +6,6 @@ I had used HTML/CSS, JavaScript and Bootstrap.
 
 ![](UI/assets/Rec1.gif)
 
-# On Mobile:
+# Tablet / Mobile Samples:
 
 ![](UI/assets/Rec2.gif)
